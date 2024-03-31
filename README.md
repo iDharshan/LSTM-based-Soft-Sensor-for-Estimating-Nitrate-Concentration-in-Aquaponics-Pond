@@ -22,6 +22,15 @@ To use the LSTM-based soft-sensor for estimating nitrate concentration in aquapo
 5. Evaluate the model's performance using appropriate metrics and visualizations.
 6. Use the trained model to make predictions on new data, providing valuable insights into nitrate concentration dynamics in aquaponic systems.
 
+## Dataset
+
+The dataset used in this project can be found on Kaggle at the following link:
+
+[Sensor-based Aquaponics Fish Pond Datasets](https://www.kaggle.com/datasets/ogbuokiriblessing/sensor-based-aquaponics-fish-pond-datasets)
+
+This dataset provides sensor-based measurements from aquaponics fish ponds, including water quality features and nitrate concentration. It serves as the foundation for training and evaluating the LSTM-based soft-sensor model for estimating nitrate concentration in aquaponics ponds.
+
+
 ## Dependencies
 - Python (>=3.6)
 - TensorFlow (>=2.0)
